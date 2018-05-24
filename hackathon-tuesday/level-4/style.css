@@ -1,0 +1,23 @@
+#icon-star{
+	font-size: 100px;
+	text-align: center;
+	padding: 79px;
+} */
+span{
+	font-size: 100px;
+	padding: 700px 300px; 
+	background-color: white;
+	color: #319bf1;
+	text-align: center;
+	/*display: inline-block;*/
+
+
+
+	
+}
+#icon-star{
+	background-color:white;
+	color: #319bf1;
+	-webkit-box-shadow: -6px -14px 5px 116px rgba(245,237,245,1);
+   -moz-box-shadow: -6px -14px 5px 116px rgba(245,237,245,1);
+   box-shadow: -6px -14px 5px 116px rgba(245,237,245,1);
